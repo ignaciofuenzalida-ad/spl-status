@@ -10,6 +10,10 @@ def main():
         "https://spl-worker-3.onrender.com",
         "https://spl-worker-4.onrender.com",
         "https://spl-worker-5.onrender.com",
+        "https://spl-worker-6.onrender.com",
+        "https://spl-worker-7.onrender.com",
+        "https://spl-worker-8.onrender.com",
+        "https://spl-worker-9.onrender.com",
     ]
     while True:
         for url in urls:
